@@ -1,0 +1,213 @@
+body {
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    margin-top: 20px;
+    display: flex;
+}
+
+.mobile-body {
+    background-color: white;
+    position: absolute;
+    width: 380px;
+    height: 20px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.newbalance-logo {
+    position: absolute;
+    height: 30px;
+    left: 15px;
+    top: 28px;
+}
+
+.nav-bar {
+    font-size: 32px;
+    color: black;
+}
+
+.nav-bar {
+    text-align: right;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 8px;
+    padding-right: 8px;
+    display: block;
+    max-width: 1440px;
+    margin-right: 5px; 
+    margin-top: 9px;   
+}
+
+.product-list
+{
+    margin-top:10px;
+    display: flex;
+    padding: 4px;
+}
+
+.product-detail img {
+    display:block;
+    width: 100%;
+    display: flex;
+}
+
+.product-detail{
+    padding: 10px;
+    width: 50%;
+    flex-shrink: 1;
+    border-radius:10px;
+}
+.spacing{
+    width: 22px;
+}
+.product-style{
+    color: black;
+    font-size:12px;
+}
+.product-title{
+    font-weight: 900;
+    font-size: 14px;
+    text-decoration: underline;
+}
+.product-price{
+    color: black;
+    font-weight: 900;
+    font-size:14px;
+}
+.contalner {
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+    color: red;
+    text-align: center;
+    width: 354px; 
+    width: 94.5%;
+}
+.contalner {
+    border-bottom-color: red;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-image-repeat: stretch;
+    border-left-color: red;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-left-style: solid;
+    border-left-width: 2px;
+    border-right-style: solid;
+    border-right-width: 2px;
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-image-slice: 100%;
+}
+
+.contalner-title{
+    box-sizing: border-box;
+    font-size: 17px;
+    display: flex;
+    justify-content: center;
+    width: 374px;
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+
+.contalner-title{
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 25px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    align-items: center
+
+}
+
+.nb-button.button-primary {
+    background-color: rgb(198, 3, 3);
+    border-color: rgb(198, 3, 3);
+    color: white;
+    margin-left: 30px;
+}
+
+.nb-button {
+    display: block;
+    box-sizing: border-box;
+    font-weight: 700;
+    text-align: center;
+    min-width: 104px;
+    line-height: 50px;
+    font-size: 15px;
+}
+
+.product-detail0{
+background-color: #fff;
+width: 40px;
+padding: .2rem!important;
+white-space: nowrap;
+}
+
+.product-detail0{
+    margin-left: 4px;
+    max-width: 100%;
+    position: relative;
+    display: flex;
+}
+
+.flex0{
+    position: absolute;
+    left: 15px;
+    top: 118px;
+    margin-left: 120px;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.flex2{
+    position: absolute;
+    left: 210px;
+    top: 118px;
+    margin-left: 120px;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.flex3{
+    position: absolute;
+    left: 15px;
+    top: 415px;
+    margin-left: 120px;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.flex4{
+    position: absolute;
+    left: 210px;
+    top: 415px;
+    margin-left: 120px;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.flex5{
+    position: absolute;
+    left: 15px;
+    top: 730px;
+    margin-left: 120px;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.flex6{
+    position: absolute;
+    left: 210px;
+    top: 730px;
+    margin-left: 120px;
+    font-size: 25px;
+    font-weight: 300;
+}
